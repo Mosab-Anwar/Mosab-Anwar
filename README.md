@@ -12,4 +12,4 @@ I am the Founder and Community Lead of **SHIFT CS**, a WhatsApp-based community 
 I enjoy building useful systems, supporting junior developers, and continuously improving my skills.
 
 ## Contact
-LinkedIn: [Mosab Anwar](https://www.linkedin.com/in/mosab-anwar-66b189319)
+LinkedIn: [Mosab Anwar](https://www.linkedin.com/in/mosab-anwar)
